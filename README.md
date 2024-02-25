@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **developing methods to harness the EO data available to support decision making**
 - 💬 Ask me about **remote sensing, geospatial analysis**
 - 📫 How to reach me **andersonreis.geo@gmail.com**
-- 📄 Know about my experiences [https://andersonreisoares.github.io/academic-cv/](https://andersonreisoares.github.io/academic-cv/)
+- 📄 Know about my experiences [https://andersonreisoares.github.io](https://andersonreisoares.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
